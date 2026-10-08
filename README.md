@@ -6,12 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Forward+Deployed+Engineer+(FDE);Building+AI-integrated+full-stack+products;Turning+real+problems+into+working+software)](https://git.io/typing-svg)
 
-</div>
-
-# 💫 Hi 👋, I'm Harsh Singh
-**An aspiring Forward Deployed Engineer (FDE) || AI Engineer || Full Stack Developer from India**
 
 Email Me 👉 ✉️ **singhharshu0908@gmail.com** For Anything. 😊😊
+
+</div>
 
 ## 🧑‍💻 About Me
 
