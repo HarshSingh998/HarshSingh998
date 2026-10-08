@@ -117,6 +117,28 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshSingh998&theme=tokyo-night&hide_border=true&point=7C3AED&line=7C3AED&area=true&area_color=7C3AED)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 I'm open to internships, collaborations and conversations about AI, full stack and FDE roles.
