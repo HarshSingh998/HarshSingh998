@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/main/assets/banner.svg" width="100%" alt="Harsh Singh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Harsh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40" width="100%" alt="Harsh Singh"/>
 
 <div align="center">
 
@@ -106,22 +106,14 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 
 <div align="center">
 
-### 🟣 Contribution Graph (daily dots)
+### 🟩 GitHub Contributions
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshSingh998&theme=tokyo-night&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=F0ABFC&area=true&area_color=7C3AED&hide_border=true&radius=10&custom_title=Harsh%20Singh%20%E2%80%A2%20GitHub%20Contributions)
+<img src="https://ghchart.rshah.org/7C3AED/HarshSingh998" alt="HarshSingh998 GitHub contribution graph" width="100%"/>
 
-### 🟩 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/7C3AED/HarshSingh998" alt="HarshSingh998 GitHub contribution calendar" width="95%"/>
-
-### 📈 Overview
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshSingh998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=10"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=tokyonight&hide_border=true&layout=compact&border_radius=10"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSingh998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=tokyonight&hide_border=true&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarshSingh998&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-### 🧮 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshsingh998?theme=dark&font=Fira%20Code&ext=heatmap)
 
@@ -137,5 +129,7 @@ I'm open to internships, collaborations and conversations about AI, full stack a
 - 🐙 GitHub: [HarshSingh998](https://github.com/HarshSingh998)
 - 🧮 LeetCode: [Harshsingh998](https://leetcode.com/u/Harshsingh998/)
 - ✉️ Email: [singhharshu0908@gmail.com](mailto:singhharshu0908@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%" alt="footer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let%27s+build+something+great+together" alt="footer"/>
