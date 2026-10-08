@@ -113,7 +113,7 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSingh998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=tokyonight&hide_border=true&layout=compact)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HarshSingh998&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshSingh998&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshsingh998?theme=dark&font=Fira%20Code&ext=heatmap)
 
