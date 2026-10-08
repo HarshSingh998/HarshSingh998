@@ -87,14 +87,16 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 
 </div>
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" </div>
-
 <div align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20views&color=7C3AED&style=flat" alt="HarshSingh998" /> </p>
 </div>
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" </div>
+
+
 
 <div align="center">
 
