@@ -79,17 +79,19 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=HarshSingh998&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://streak-stats.demolab.com/?user=HarshSingh998&theme=radical">
 
-</div>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ### 🧮 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshsingh998?theme=dark&font=Fira%20Code&ext=heatmap)
 
+</div>
+
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-----singh/) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/HarshSingh998) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshsingh998/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:singhharshu0908@gmail.com)
@@ -97,7 +99,11 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshSingh998&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%" alt="footer"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let%27s+build+something+great+together" alt="footer"/>
+</div>
