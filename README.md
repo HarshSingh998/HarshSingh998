@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Forward%20Deployed%20Engineer%20%7C%20AI%20%26%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Harsh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40" width="100%" alt="Harsh Singh"/>
 
 <div align="center">
 
@@ -117,18 +117,6 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HarshSingh998/HarshSingh998/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -148,4 +136,4 @@ I'm open to internships, collaborations and conversations about AI, full stack a
 - 🧮 LeetCode: [Harshsingh998](https://leetcode.com/u/Harshsingh998/)
 - ✉️ Email: [singhharshu0908@gmail.com](mailto:singhharshu0908@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%" alt="footer"/>
