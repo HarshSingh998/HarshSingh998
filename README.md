@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh998&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshsingh998" alt="harshsingh998" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/HarshSingh998" alt="Harsh Singh" /></a> </p>
 
 - 🌱 I’m currently learning **🌱 I’m currently learning C++, Python, DSA, Web Development, Backend Development, and AI while building projects and strengthening my fundamentals.**
 
