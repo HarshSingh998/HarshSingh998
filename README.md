@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Harsh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40" width="100%" alt="Harsh Singh"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20views&color=7C3AED&style=flat" alt="HarshSingh998" /> </p>
 
 <div align="center">
 
@@ -90,8 +89,14 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" </div>
 
+<div align="left">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20views&color=7C3AED&style=flat" alt="HarshSingh998" /> </p>
+</div>
+
+<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-----singh/) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/HarshSingh998) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshsingh998/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:singhharshu0908@gmail.com)
@@ -100,6 +105,8 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshSingh998&limit=5&theme=dark&combine_all_yearly_contributions=true)
