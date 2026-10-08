@@ -1,27 +1,46 @@
-# 👋 Heyyyy, I'm Harsh Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Forward%20Deployed%20Engineer%20%7C%20AI%20%26%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-### 🚀 *Aspiring AI Engineer | Full Stack Developer | DSA Enthusiast*
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20Views&color=blue&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-----singh/)
-[![GitHub](https://img.shields.io/badge/GitHub-HarshSingh998-black?style=flat&logo=github)](https://github.com/HarshSingh998)
-[![Email](https://img.shields.io/badge/Email-hrshalsingh@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hrshalsingh@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Forward+Deployed+Engineer+(FDE);Building+AI-integrated+full-stack+products;Turning+real+problems+into+working+software)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-----singh/)
+[![GitHub](https://img.shields.io/badge/GitHub-HarshSingh998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshSingh998)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshsingh998-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshsingh998/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhharshu0908@gmail.com)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore)** building **full-stack products** and exploring **AI-integrated applications**, backend engineering, and data structures & algorithms.
+I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore)** on the path to becoming a **Forward Deployed Engineer**, someone who sits close to real users, understands their messy problems, and ships working software (AI, backend and frontend) to solve them.
 
-- 🎓 **B.Tech CSE (2026–2030)** @ Alta School of Technology, Sage University, Indore
-- 🧠 **Exploring:** AI-integrated apps, full stack web development, backend engineering
-- 🧩 **Currently:** Solving a 111-problem DSA series and posting progress on GitHub & LinkedIn
-- 🏆 **Hackathons:** Arkfest (Sage University), PromptWars x ADYPU Pune
-- 🌏 **Location:** Indore, Madhya Pradesh, India
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE (2026–2030) @ Alta School of Technology, Sage University |
+| 🎯 **Goal** | Forward Deployed Engineer · AI Engineer · Full Stack Developer |
+| 🧠 **Exploring** | AI-integrated apps, backend engineering, full stack web development |
+| 🧩 **Currently** | Solving a 111-problem DSA series, with progress posted on GitHub & LinkedIn |
+| 🏆 **Hackathons** | Arkfest (Sage University) · PromptWars x ADYPU Pune |
+| 🌏 **Location** | Indore, Madhya Pradesh, India |
 
 ---
 
-## 🧰 Tech Stack (Quick View)
+## 🎯 Why Forward Deployed Engineering?
+
+- 🤝 **Problem-first mindset:** I start from the user's pain point (like campus event chaos in UniSync), then pick the tech.
+- ⚡ **Rapid prototyping:** hackathons taught me to go from idea to a deployed, working demo in hours.
+- 🔌 **End-to-end ownership:** frontend, backend, database, auth and deployment, all in one workflow.
+- 🤖 **AI in the loop:** I enjoy wiring AI (voice assistants, Gemini, vibe-coding tools) into real products.
+- 🧮 **Strong fundamentals:** consistent DSA practice in C++ and Python on LeetCode.
+
+---
+
+## 🧰 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,49 +68,62 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🎓 UniSync — Smart Campus Event & Student Engagement Platform
-- 📝 Built to solve *"Running Campus Events and Clubs Without the Chaos"*
-- 🔁 Flow: **Discover → Register → QR Ticket → Attend → Earn → Achieve**
+### 🎓 UniSync: Smart Campus Event & Student Engagement Platform
+> *Running Campus Events and Clubs Without the Chaos*
+
+- 🔁 **Flow:** Discover → Register → QR Ticket → Attend → Earn → Achieve
 - 🎟️ Clubs, registration with waitlists & payments, QR-based attendance
 - 🏅 Points, badges, streaks, leaderboards, certificates and a Campus Passport
 - 🤖 Personalized feed and an AI voice assistant
-- 🛠️ Built with **Next.js, TypeScript, Tailwind CSS, Supabase** (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
-
----
-
-### 💪 Fitness App
-- 🌐 Live: https://web-pi-virid-58.vercel.app/
-- 📝 Fitness-focused web application deployed on Vercel
+- 🛠️ **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
+- 💻 **Repo:** [UniSync-campus-project](https://github.com/AbhaySharma2009/UniSync-campus-project) *(contributor)*
 
 ---
 
 ### 🏁 Arkfest Hackathon Project
-- 💻 Repo: https://github.com/HarshSingh998/Hackathon-Project
-- 📝 Built at **Arkfest, Sage University (2026)**
+- 📝 Built at **Arkfest, Sage University (2026)** as part of a team
+- 💻 **Repo:** [Hackathon-Project](https://github.com/AbhaySharma2009/Hackathon-Project) *(contributor)*
+
+---
+
+### 💪 Fitness App
+- 📝 Fitness-focused web application
+- 🌐 **Live:** [web-pi-virid-58.vercel.app](https://web-pi-virid-58.vercel.app/)
+- 🚀 Deployed on Vercel
 
 ---
 
 ## 🏅 Certificates & Achievements
 
-- 🎖️ **Google Student Ambassador Program 2026** — *Build Your Fest Stall Edition*: brought a brand idea to life using Gemini and Nano Banana
-- 🎖️ **PromptWars x ADYPU Pune** (Google Developer Groups on campus) — one-day vibe-coding hackathon: deployed a working AI prototype using Google Antigravity
+- 🎖️ **Google Student Ambassador Program 2026:** *Build Your Fest Stall Edition*. Brought a brand idea to life using Gemini and Nano Banana.
+- 🎖️ **PromptWars x ADYPU Pune** (Google Developer Groups on campus): one-day vibe-coding hackathon where I deployed a working AI prototype using Google Antigravity.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HarshSingh998&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=HarshSingh998&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSingh998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=tokyonight&hide_border=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HarshSingh998&theme=tokyonight&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harshsingh998?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
+I'm open to internships, collaborations and conversations about AI, full stack and FDE roles.
+
 - 💼 LinkedIn: [Harsh Singh](https://www.linkedin.com/in/harsh-----singh/)
 - 🐙 GitHub: [HarshSingh998](https://github.com/HarshSingh998)
-- ✉️ Email: [hrshalsingh@gmail.com](mailto:hrshalsingh@gmail.com)
+- 🧮 LeetCode: [Harshsingh998](https://leetcode.com/u/Harshsingh998/)
+- ✉️ Email: [singhharshu0908@gmail.com](mailto:singhharshu0908@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
