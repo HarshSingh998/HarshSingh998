@@ -106,22 +106,16 @@ I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore
 
 <div align="center">
 
+### 🟩 GitHub Contributions
+
+<img src="https://ghchart.rshah.org/7C3AED/HarshSingh998" alt="HarshSingh998 GitHub contribution graph" width="100%"/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSingh998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=tokyonight&hide_border=true&layout=compact)
 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HarshSingh998&theme=tokyonight&hide_border=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshsingh998?theme=dark&font=Fira%20Code&ext=heatmap)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshSingh998&theme=tokyo-night&hide_border=true&point=7C3AED&line=7C3AED&area=true&area_color=7C3AED)
 
 </div>
 
