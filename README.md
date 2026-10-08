@@ -5,7 +5,7 @@
 # 💫 Hi 👋, I'm Harsh Singh
 **An aspiring Forward Deployed Engineer (FDE) || AI Engineer || Full Stack Developer from India**
 
-Email Me 👉 ✉️ **singhharshu0908@gmail.com** For Collaboration/Internships or Anything Else. 😊😊
+Email Me 👉 ✉️ **singhharshu0908@gmail.com** For Anything. 😊😊
 
 ## 🧑‍💻 About Me
 
