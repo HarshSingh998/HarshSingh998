@@ -1,29 +1,97 @@
-<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
-<h3 align="center">Aspiring FDE || AI Engineer || Software Engineer || DSA || B.Tech CSE Student</h3>
+# 👋 Heyyyy, I'm Harsh Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh998&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh998" /> </p>
+### 🚀 *Aspiring AI Engineer | Full Stack Developer | DSA Enthusiast*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/HarshSingh998" alt="Harsh Singh" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20Views&color=blue&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-----singh/)
+[![GitHub](https://img.shields.io/badge/GitHub-HarshSingh998-black?style=flat&logo=github)](https://github.com/HarshSingh998)
+[![Email](https://img.shields.io/badge/Email-hrshalsingh@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hrshalsingh@gmail.com)
 
-- 🌱 I’m currently learning **🌱 I’m currently learning C++, Python, DSA, Web Development, Backend Development, and AI while building projects and strengthening my fundamentals.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshSingh998](https://github.com/HarshSingh998)
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **singhharshu0908@gmail.com**
+I'm a **B.Tech CSE student at Alta School of Technology, Sage University (Indore)** building **full-stack products** and exploring **AI-integrated applications**, backend engineering, and data structures & algorithms.
 
-- 📄 Portfolio [https://mystery-portfolio.vercel.app/](https://mystery-portfolio.vercel.app/)
+- 🎓 **B.Tech CSE (2026–2030)** @ Alta School of Technology, Sage University, Indore
+- 🧠 **Exploring:** AI-integrated apps, full stack web development, backend engineering
+- 🧩 **Currently:** Solving a 111-problem DSA series and posting progress on GitHub & LinkedIn
+- 🏆 **Hackathons:** Arkfest (Sage University), PromptWars x ADYPU Pune
+- 🌏 **Location:** Indore, Madhya Pradesh, India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-----singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-----singh/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/harshsingh998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshsingh998/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## 🧰 Tech Stack (Quick View)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh998&show_icons=true&locale=en&layout=compact" alt="harshsingh998" /></p>
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsingh998&show_icons=true&locale=en" alt="harshsingh998" /></p>
+### Frontend & UI
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsingh998&" alt="harshsingh998" /></p>
+### Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Deployment & Tooling
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🎓 UniSync — Smart Campus Event & Student Engagement Platform
+- 📝 Built to solve *"Running Campus Events and Clubs Without the Chaos"*
+- 🔁 Flow: **Discover → Register → QR Ticket → Attend → Earn → Achieve**
+- 🎟️ Clubs, registration with waitlists & payments, QR-based attendance
+- 🏅 Points, badges, streaks, leaderboards, certificates and a Campus Passport
+- 🤖 Personalized feed and an AI voice assistant
+- 🛠️ Built with **Next.js, TypeScript, Tailwind CSS, Supabase** (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
+
+---
+
+### 💪 Fitness App
+- 🌐 Live: https://web-pi-virid-58.vercel.app/
+- 📝 Fitness-focused web application deployed on Vercel
+
+---
+
+### 🏁 Arkfest Hackathon Project
+- 💻 Repo: https://github.com/HarshSingh998/Hackathon-Project
+- 📝 Built at **Arkfest, Sage University (2026)**
+
+---
+
+## 🏅 Certificates & Achievements
+
+- 🎖️ **Google Student Ambassador Program 2026** — *Build Your Fest Stall Edition*: brought a brand idea to life using Gemini and Nano Banana
+- 🎖️ **PromptWars x ADYPU Pune** (Google Developer Groups on campus) — one-day vibe-coding hackathon: deployed a working AI prototype using Google Antigravity
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HarshSingh998&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HarshSingh998&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh998&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Harsh Singh](https://www.linkedin.com/in/harsh-----singh/)
+- 🐙 GitHub: [HarshSingh998](https://github.com/HarshSingh998)
+- ✉️ Email: [hrshalsingh@gmail.com](mailto:hrshalsingh@gmail.com)
