@@ -2,6 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSingh998&label=Profile%20views&color=7C3AED&style=flat" alt="HarshSingh998" /> </p>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harsh+%F0%9F%91%8B;Aspiring+Forward+Deployed+Engineer+(FDE);Building+AI-integrated+full-stack+products;Turning+real+problems+into+working+software)](https://git.io/typing-svg)
+
+
 # 💫 Hi 👋, I'm Harsh Singh
 **An aspiring Forward Deployed Engineer (FDE) || AI Engineer || Full Stack Developer from India**
 
