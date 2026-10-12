@@ -57,9 +57,6 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 - 📝 Built at **Arkfest, Sage University (2026)** as part of a team
 - 💻 **Repo:** [Hackathon-Project](https://github.com/AbhaySharma2009/Hackathon-Project) *(contributor)*
 
-### 💪 Fitness App
-- 📝 Fitness-focused web application, deployed on Vercel
-- 🌐 **Live:** [web-pi-virid-58.vercel.app](https://web-pi-virid-58.vercel.app/)
 
 # 🏅 Certificates & Achievements
 
