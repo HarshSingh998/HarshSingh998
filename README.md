@@ -43,19 +43,8 @@ I'm a **B.Tech CSE student (2026–2030) at Alta School of Technology, Sage Univ
 
 # 🚀 Featured Projects
 
-### 🎓 UniSync: Smart Campus Event & Student Engagement Platform
-> *Running Campus Events and Clubs Without the Chaos*
-
-- 🔁 **Flow:** Discover → Register → QR Ticket → Attend → Earn → Achieve
-- 🎟️ Clubs, registration with waitlists & payments, QR-based attendance
-- 🏅 Points, badges, streaks, leaderboards, certificates and a Campus Passport
-- 🤖 Personalized feed and an AI voice assistant
-- 🛠️ **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
-- 💻 **Repo:** [UniSync-campus-project](https://github.com/AbhaySharma2009/UniSync-campus-project) *(contributor)*
-
-### 🏁 Arkfest Hackathon Project
+### 🏁 Arkfest Hackathon Project -
 - 📝 Built at **Arkfest, Sage University (2026)** as part of a team
-- 💻 **Repo:** [Hackathon-Project](https://github.com/AbhaySharma2009/Hackathon-Project) *(contributor)*
 
 
 # 🏅 Certificates & Achievements
