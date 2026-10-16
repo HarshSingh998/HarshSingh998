@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **singhharshu0908@gmail.com** For Anything. 😊😊
 
 <div align="center">
 
-## 🌐 My Portfolio
+## 🌐 **My Portfolio**
 
 <a href="https://main-portfolio-seven-phi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-Click_Here-2F81F7?style=for-the-badge" alt="Visit My Portfolio">
